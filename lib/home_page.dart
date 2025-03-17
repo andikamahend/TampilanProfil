@@ -45,7 +45,7 @@ class HomePage extends StatelessWidget{
               offset: const Offset(0, -50),
               child: const CircleAvatar(
                 radius: 50,
-                backgroundImage: AssetImage('images/logohalal.png'),
+                backgroundImage: AssetImage('images/foto.png'),
               ),
             ),
 
